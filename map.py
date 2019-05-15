@@ -11,8 +11,6 @@ tooltip = "Click for More Info"
 # Create custom marker icon
 logoIcon = folium.features.CustomIcon('smiley1.png', icon_size=(50, 50))
 
-# bring data in
-store = os.path.join('data', 'out-file.json')
 
 # Create markers, popup and tooltip
 folium.Marker([42.363600, -71.099500], popup="<strong>Location One</strong>",
@@ -48,9 +46,6 @@ folium.CircleMarker(
     fill_color="428bca",
 ).add_to(m),
 
-
-# geoJson layer
-folium.GeoJson(store, name="Stores").add_to(m)
 
 # Generate map
 m.save('map.html')
