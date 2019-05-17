@@ -12,7 +12,7 @@ unemployment_data = os.path.join('data', 'us-unemployment.csv')
 state_data = pd.read_csv(unemployment_data)
 
 # create different bins for the legend to show
-
+#create legend bins
 bins = list(state_data['Unemployment'].quantile([0, 0.25, 0.5, 0.75, 1]))
 # create map object
 m = folium.Map([48, -102], zoom_start=3)
