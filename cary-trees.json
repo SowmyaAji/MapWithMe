@@ -1,0 +1,611 @@
+[
+    {
+        "aFeature ID": 3,
+        "CreationDate": "2017-07-27T13:26:35-04:00",
+        "Creator": "tyler.durhamnc",
+        "EditDate": "2017-07-27T14:49:42-04:00",
+        "Editor": "Tyler.Waring_carync",
+        "Name": "Cypress grove",
+        "Description": "A nice grove of 50 foot tall cypress",
+        "Location Name": "114-122 Wilkinson Ave, Cary, North Carolina, 27513",
+        "geo_shape": {
+            "type": "Point",
+            "coordinates": [
+                -78.77984191489047,
+                35.79005567814715
+            ]
+        },
+        "geo_point_2d": [
+            35.7900556781,
+            -78.7798419149
+        ]
+    },
+    {
+        "aFeature ID": 5,
+        "CreationDate": "2017-07-27T13:33:10-04:00",
+        "Creator": "tyler.durhamnc",
+        "EditDate": "2017-07-27T14:49:09-04:00",
+        "Editor": "Tyler.Waring_carync",
+        "Name": "Crape myrtle",
+        "Description": "20 foot tall crape myrtle",
+        "Location Name": "114-122 Wilkinson Ave, Cary, North Carolina, 27513",
+        "geo_shape": {
+            "type": "Point",
+            "coordinates": [
+                -78.77974535536593,
+                35.78956178931491
+            ]
+        },
+        "geo_point_2d": [
+            35.7895617893,
+            -78.7797453554
+        ]
+    },
+    {
+        "aFeature ID": 9,
+        "CreationDate": "2017-08-03T14:31:25-04:00",
+        "Creator": "vharrington21",
+        "EditDate": "2018-06-22T09:37:23-04:00",
+        "Editor": "leith.britt_carync",
+        "Name": "Admin Tree",
+        "Description": "My fav",
+        "Location Name": "Town Hall Terraces, Morrisville, North Carolina",
+        "geo_shape": {
+            "type": "Point",
+            "coordinates": [
+                -78.84306999999862,
+                35.83215999999944
+            ]
+        },
+        "geo_point_2d": [
+            35.83216,
+            -78.84307
+        ]
+    },
+    {
+        "aFeature ID": 13,
+        "CreationDate": "2018-03-26T20:25:58-04:00",
+        "Creator": "",
+        "EditDate": "2018-06-22T09:37:33-04:00",
+        "Editor": "leith.britt_carync",
+        "Name": "Dawn Redwood trees",
+        "Description": "These 15 beautiful trees are not Cypress, they are Dawn Redwoods, planted when the Town upgraded its campus in 2000. They are listed as an Endangered Species by the International Union for the Conservation of Nature. The tree was thought to have been extinct for several million years until, in 1945, a small grove was found in an interior province of China. See the history of the tree, and the worldwide effort to keep it from becoming extinct, on this page: https://www.beautifycary.org/dawns.php",
+        "Location Name": "114-122 Wilkinson Ave, Cary, North Carolina, 27513",
+        "geo_shape": {
+            "type": "Point",
+            "coordinates": [
+                -78.77983789157557,
+                35.79005839779018
+            ]
+        },
+        "geo_point_2d": [
+            35.7900583978,
+            -78.7798378916
+        ]
+    },
+    {
+        "aFeature ID": 17,
+        "CreationDate": "2018-03-26T21:13:31-04:00",
+        "Creator": "",
+        "EditDate": "2018-07-06T09:48:56-04:00",
+        "Editor": "leith.britt_carync",
+        "Name": "Town of Cary Environmental Sensitivity",
+        "Description": "Picture says it all.",
+        "Location Name": "114 Dry Ave, Cary, North Carolina, 27511",
+        "geo_shape": {
+            "type": "Point",
+            "coordinates": [
+                -78.78267163269852,
+                35.783177142153825
+            ]
+        },
+        "geo_point_2d": [
+            35.7831771422,
+            -78.7826716327
+        ]
+    },
+    {
+        "aFeature ID": 23,
+        "CreationDate": "2018-03-26T22:47:13-04:00",
+        "Creator": "",
+        "EditDate": "2018-07-06T09:47:46-04:00",
+        "Editor": "leith.britt_carync",
+        "Name": "Four-year-old Fig Tree",
+        "Description": "A fig tree that has grown to 20 feet in four years. Each late summer, as the fruit becomes overripe, thousands of honey bees are attracted to it.",
+        "Location Name": "2220 W Marilyn Cir, Cary, North Carolina, 27513",
+        "geo_shape": {
+            "type": "Point",
+            "coordinates": [
+                -78.81805884606601,
+                35.76585618586726
+            ]
+        },
+        "geo_point_2d": [
+            35.7658561859,
+            -78.8180588461
+        ]
+    },
+    {
+        "aFeature ID": 25,
+        "CreationDate": "2018-04-09T17:13:38-04:00",
+        "Creator": "",
+        "EditDate": "2018-07-06T09:46:39-04:00",
+        "Editor": "leith.britt_carync",
+        "Name": "Paper Bark Maple in Honor of Kay Struffolino",
+        "Description": "Planted for Arbor Day 2014",
+        "Location Name": "101-199 Ambassador Loop, Cary, North Carolina, 27513",
+        "geo_shape": {
+            "type": "Point",
+            "coordinates": [
+                -78.77961082937065,
+                35.7886747765028
+            ]
+        },
+        "geo_point_2d": [
+            35.7886747765,
+            -78.7796108294
+        ]
+    },
+    {
+        "aFeature ID": 27,
+        "CreationDate": "2018-04-09T19:04:34-04:00",
+        "Creator": "",
+        "EditDate": "2018-07-06T09:45:56-04:00",
+        "Editor": "leith.britt_carync",
+        "Name": "Persian Ironwood in honor of Anne Kratzer",
+        "Description": "Planted on Arbor Day 2016",
+        "Location Name": "100-112 Wilkinson Ave, Cary, North Carolina, 27513",
+        "geo_shape": {
+            "type": "Point",
+            "coordinates": [
+                -78.78001316072275,
+                35.78960164177892
+            ]
+        },
+        "geo_point_2d": [
+            35.7896016418,
+            -78.7800131607
+        ]
+    },
+    {
+        "aFeature ID": 31,
+        "CreationDate": "2018-07-16T16:12:22-04:00",
+        "Creator": "leith.britt_carync",
+        "EditDate": "2018-07-17T17:37:15-04:00",
+        "Editor": "leith.britt_carync",
+        "Name": "Midway",
+        "Description": "Test for emailer",
+        "Location Name": "125-129 Wilkinson Ave, Cary, North Carolina, 27513",
+        "geo_shape": {
+            "type": "Point",
+            "coordinates": [
+                -78.77908906745641,
+                35.79060343197116
+            ]
+        },
+        "geo_point_2d": [
+            35.790603432,
+            -78.7790890675
+        ]
+    },
+    {
+        "aFeature ID": 32,
+        "CreationDate": "2018-07-17T17:51:38-04:00",
+        "Creator": "Emily.Barrett_carync",
+        "EditDate": "2018-07-17T17:57:43-04:00",
+        "Editor": "Emily.Barrett_carync",
+        "Name": "tree peopkle",
+        "Description": "people",
+        "Location Name": "1001-1325 White Oak Church Rd, Apex, North Carolina, 27523",
+        "geo_shape": {
+            "type": "Point",
+            "coordinates": [
+                -78.92568628595056,
+                35.791903886062855
+            ]
+        },
+        "geo_point_2d": [
+            35.7919038861,
+            -78.925686286
+        ]
+    },
+    {
+        "aFeature ID": 22,
+        "CreationDate": "2018-03-26T22:27:10-04:00",
+        "Creator": "",
+        "EditDate": "2018-06-22T09:37:40-04:00",
+        "Editor": "leith.britt_carync",
+        "Name": "Chaste Tree with Cat",
+        "Description": "This is a Chaste Tree, perhaps not a tree at all, but maybe a large shrub. It is a member of the  family Lamiaceae. In warm months, its flowers attract thousands of honey bees, and the tree emanates an eerie low buzzing sound. We believe it to be the largest chaste tree in Cary (34 feet tall) but would be delighted to learn there were bigger ones.",
+        "Location Name": "2220 W Marilyn Cir, Cary, North Carolina, 27513",
+        "geo_shape": {
+            "type": "Point",
+            "coordinates": [
+                -78.8177999773026,
+                35.76592998321713
+            ]
+        },
+        "geo_point_2d": [
+            35.7659299832,
+            -78.8177999773
+        ]
+    },
+    {
+        "aFeature ID": 12,
+        "CreationDate": "2018-01-19T10:17:44-05:00",
+        "Creator": "",
+        "EditDate": "2018-06-22T09:37:27-04:00",
+        "Editor": "leith.britt_carync",
+        "Name": "TOC Christmas Tree, red cedar",
+        "Description": "Eastern Red Cedar that was transplanted to this location in 1985 by former Mayor Harold Ritter, Horticulturalist, Shaub Dunkley, and the Cary Appearance Commission, to serve as the official Town of Cary Christmas Tree.  Annual ceremony held here.",
+        "Location Name": "301-313 N Academy St, Cary, North Carolina, 27513",
+        "geo_shape": {
+            "type": "Point",
+            "coordinates": [
+                -78.78122777777511,
+                35.78926388888766
+            ]
+        },
+        "geo_point_2d": [
+            35.7892638889,
+            -78.7812277778
+        ]
+    },
+    {
+        "aFeature ID": 14,
+        "CreationDate": "2018-03-26T20:53:52-04:00",
+        "Creator": "",
+        "EditDate": "2018-07-06T09:49:34-04:00",
+        "Editor": "leith.britt_carync",
+        "Name": "Rex Healthcare Dawn Redwoods",
+        "Description": "A magnificent Dawn Redwood by the lake on the campus of Rex Healthcare at the intersection of Cary Parkway and Lake Pine Drive. Two more Dawns grow near the waterline left of this tree.",
+        "Location Name": "1503 Lake Pine Dr, Cary, North Carolina, 27511",
+        "geo_shape": {
+            "type": "Point",
+            "coordinates": [
+                -78.8082549089803,
+                35.75534304869151
+            ]
+        },
+        "geo_point_2d": [
+            35.7553430487,
+            -78.808254909
+        ]
+    },
+    {
+        "aFeature ID": 4,
+        "CreationDate": "2017-07-27T13:30:03-04:00",
+        "Creator": "tyler.durhamnc",
+        "EditDate": "2017-07-27T14:49:25-04:00",
+        "Editor": "Tyler.Waring_carync",
+        "Name": "Palmetto trees and public art.",
+        "Description": "15 foot tall palmetto trees next to a nice public sculpture",
+        "Location Name": "100-112 Wilkinson Ave, Cary, North Carolina, 27513",
+        "geo_shape": {
+            "type": "Point",
+            "coordinates": [
+                -78.78019596648029,
+                35.78960747960002
+            ]
+        },
+        "geo_point_2d": [
+            35.7896074796,
+            -78.7801959665
+        ]
+    },
+    {
+        "aFeature ID": 26,
+        "CreationDate": "2018-04-09T17:15:48-04:00",
+        "Creator": "",
+        "EditDate": "2018-07-06T09:46:07-04:00",
+        "Editor": "leith.britt_carync",
+        "Name": "White Fringetree in honor of Sheila Ogle",
+        "Description": "Planted Arbor Day 2017",
+        "Location Name": "101-199 Ambassador Loop, Cary, North Carolina, 27513",
+        "geo_shape": {
+            "type": "Point",
+            "coordinates": [
+                -78.7795303631002,
+                35.78885536377771
+            ]
+        },
+        "geo_point_2d": [
+            35.7888553638,
+            -78.7795303631
+        ]
+    },
+    {
+        "aFeature ID": 28,
+        "CreationDate": "2018-05-07T20:12:38-04:00",
+        "Creator": "",
+        "EditDate": "2018-07-06T09:45:28-04:00",
+        "Editor": "leith.britt_carync",
+        "Name": "Magnolia in our backyard",
+        "Description": "Kids are picking magnolia flowers in the rain",
+        "Location Name": "107 Covington Square Dr, Cary, North Carolina, 27513",
+        "geo_shape": {
+            "type": "Point",
+            "coordinates": [
+                -78.84232222221955,
+                35.77559999999878
+            ]
+        },
+        "geo_point_2d": [
+            35.7756,
+            -78.8423222222
+        ]
+    },
+    {
+        "aFeature ID": 33,
+        "CreationDate": "2018-07-17T18:03:05-04:00",
+        "Creator": "leith.britt_carync",
+        "EditDate": "2018-07-18T11:05:52-04:00",
+        "Editor": "Emily.Barrett_carync",
+        "Name": "Dead Tree",
+        "Description": "Test tree for Email, please hide.",
+        "Location Name": "27539, Apex, North Carolina",
+        "geo_shape": {
+            "type": "Point",
+            "coordinates": [
+                -78.8137046222446,
+                35.70316740104136
+            ]
+        },
+        "geo_point_2d": [
+            35.703167401,
+            -78.8137046222
+        ]
+    },
+    {
+        "aFeature ID": 2,
+        "CreationDate": "2017-07-27T13:24:24-04:00",
+        "Creator": "tyler.durhamnc",
+        "EditDate": "2017-08-02T11:35:06-04:00",
+        "Editor": "Tyler.Waring_carync",
+        "Name": "Holly tree",
+        "Description": "It's about 25 feet tall",
+        "Location Name": "100-112 Wilkinson Ave, Cary, North Carolina, 27513",
+        "geo_shape": {
+            "type": "Point",
+            "coordinates": [
+                -78.7802576572876,
+                35.78992295942333
+            ]
+        },
+        "geo_point_2d": [
+            35.7899229594,
+            -78.7802576573
+        ]
+    },
+    {
+        "aFeature ID": 21,
+        "CreationDate": "2018-03-26T22:13:28-04:00",
+        "Creator": "",
+        "EditDate": "2018-06-22T09:37:38-04:00",
+        "Editor": "leith.britt_carync",
+        "Name": "Blackjack Oak at the Arts Center",
+        "Description": "At one time (approximately 1992 to 2011) the Capital Trees Program recorded and listed the champion trees in Wake County. Due to discontinued funding, the Capital Trees Program is defunct. This magnificent tree was on that list.",
+        "Location Name": "101 Dry Ave, Cary, North Carolina, 27511",
+        "geo_shape": {
+            "type": "Point",
+            "coordinates": [
+                -78.7808668540318,
+                35.78277107007592
+            ]
+        },
+        "geo_point_2d": [
+            35.7827710701,
+            -78.780866854
+        ]
+    },
+    {
+        "aFeature ID": 24,
+        "CreationDate": "2018-03-26T23:01:23-04:00",
+        "Creator": "",
+        "EditDate": "2018-07-06T09:47:34-04:00",
+        "Editor": "leith.britt_carync",
+        "Name": "Dawn Redwood on W. Chatham St.",
+        "Description": "This photo was taken in August, 2011. The tree is much larger now. It is across the street from Bethel Baptist Church. There is another Dawn 30 yards west of this tree.",
+        "Location Name": "1100 W Chatham St, Cary, North Carolina, 27511",
+        "geo_shape": {
+            "type": "Point",
+            "coordinates": [
+                -78.80332117992774,
+                35.772248292283805
+            ]
+        },
+        "geo_point_2d": [
+            35.7722482923,
+            -78.8033211799
+        ]
+    },
+    {
+        "aFeature ID": 10,
+        "CreationDate": "2017-08-04T13:56:04-04:00",
+        "Creator": "ahh320",
+        "EditDate": "2017-08-10T12:52:28-04:00",
+        "Editor": "Tyler.Waring_carync",
+        "Name": "Instant tree",
+        "Description": "Can you see this?",
+        "Location Name": "147-199 E Cedar St, Cary, North Carolina, 27511",
+        "geo_shape": {
+            "type": "Point",
+            "coordinates": [
+                -78.77924999999732,
+                35.788149204508116
+            ]
+        },
+        "geo_point_2d": [
+            35.7881492045,
+            -78.77925
+        ]
+    },
+    {
+        "aFeature ID": 16,
+        "CreationDate": "2018-03-26T20:58:43-04:00",
+        "Creator": "",
+        "EditDate": "2018-07-06T09:49:02-04:00",
+        "Editor": "leith.britt_carync",
+        "Name": "Cryptomeria and Dawn Redwood",
+        "Description": "A Cryptomeria on the left and a Dawn Redwood on the right in the parking lot of Garden Supply on Old Apex Road.",
+        "Location Name": "1405-1499 Old Apex Rd, Cary, North Carolina, 27513",
+        "geo_shape": {
+            "type": "Point",
+            "coordinates": [
+                -78.80921209090272,
+                35.76665374583063
+            ]
+        },
+        "geo_point_2d": [
+            35.7666537458,
+            -78.8092120909
+        ]
+    },
+    {
+        "aFeature ID": 18,
+        "CreationDate": "2018-03-26T21:33:06-04:00",
+        "Creator": "",
+        "EditDate": "2018-07-06T09:48:51-04:00",
+        "Editor": "leith.britt_carync",
+        "Name": "Cary VFW",
+        "Description": "Dawn Redwood planted in front of Independence Hall at Cary Franklin-Sloan VFW Post 7383 in 2017 in memory of those who have given their last full measure.",
+        "Location Name": "522 Reedy Creek Rd, Cary, North Carolina, 27513",
+        "geo_shape": {
+            "type": "Point",
+            "coordinates": [
+                -78.76693957106534,
+                35.79755465274938
+            ]
+        },
+        "geo_point_2d": [
+            35.7975546527,
+            -78.7669395711
+        ]
+    },
+    {
+        "aFeature ID": 19,
+        "CreationDate": "2018-03-26T21:53:52-04:00",
+        "Creator": "",
+        "EditDate": "2018-07-06T09:48:13-04:00",
+        "Editor": "leith.britt_carync",
+        "Name": "Bald Cypress on Town Campus",
+        "Description": "Picture taken around the time (2000–01) the Town of Cary campus was expanded and landscaped. Photograph © Mark Robinson, PLA, ASLA, now a principal of the Johnson Hill Land Ethics Studio, and the landscape architect of the campus in 2000. Used with his kind permission.",
+        "Location Name": "100-112 Wilkinson Ave, Cary, North Carolina, 27513",
+        "geo_shape": {
+            "type": "Point",
+            "coordinates": [
+                -78.78072119164167,
+                35.78990611707058
+            ]
+        },
+        "geo_point_2d": [
+            35.7899061171,
+            -78.7807211916
+        ]
+    },
+    {
+        "aFeature ID": 30,
+        "CreationDate": "2018-05-08T17:38:47-04:00",
+        "Creator": "",
+        "EditDate": "2018-07-17T17:45:50-04:00",
+        "Editor": "Emily.Barrett_carync",
+        "Name": "Test Tess",
+        "Description": "Test Tree",
+        "Location Name": "124-128 Wilkinson Ave, Cary, North Carolina, 27513",
+        "geo_shape": {
+            "type": "Point",
+            "coordinates": [
+                -78.77922011001763,
+                35.78989772986747
+            ]
+        },
+        "geo_point_2d": [
+            35.7898977299,
+            -78.77922011
+        ]
+    },
+    {
+        "aFeature ID": 6,
+        "CreationDate": "2017-08-01T13:28:41-04:00",
+        "Creator": "vharrington21",
+        "EditDate": "2017-08-02T11:29:16-04:00",
+        "Editor": "Tyler.Waring_carync",
+        "Name": "Page Walker Tree",
+        "Description": "My fav",
+        "Location Name": "101-145 E Cedar St, Cary, North Carolina, 27511",
+        "geo_shape": {
+            "type": "Point",
+            "coordinates": [
+                -78.7802813180085,
+                35.78820555375611
+            ]
+        },
+        "geo_point_2d": [
+            35.7882055538,
+            -78.780281318
+        ]
+    },
+    {
+        "aFeature ID": 7,
+        "CreationDate": "2017-08-02T11:27:38-04:00",
+        "Creator": "",
+        "EditDate": "2018-07-17T17:47:05-04:00",
+        "Editor": "Emily.Barrett_carync",
+        "Name": "Big'un",
+        "Description": "Massive.",
+        "Location Name": "114-122 Wilkinson Ave, Cary, North Carolina, 27513",
+        "geo_shape": {
+            "type": "Point",
+            "coordinates": [
+                -78.78023746562494,
+                35.78982165401259
+            ]
+        },
+        "geo_point_2d": [
+            35.789821654,
+            -78.7802374656
+        ]
+    },
+    {
+        "aFeature ID": 15,
+        "CreationDate": "2018-03-26T20:56:40-04:00",
+        "Creator": "",
+        "EditDate": "2018-07-06T09:49:21-04:00",
+        "Editor": "leith.britt_carync",
+        "Name": "Garden Supply Dawn Redwood",
+        "Description": "A Dawn Redwood in fall color on the grounds of the Garden Supply Company on Old Apex Road.",
+        "Location Name": "1405-1499 Old Apex Rd, Cary, North Carolina, 27513",
+        "geo_shape": {
+            "type": "Point",
+            "coordinates": [
+                -78.80855763190353,
+                35.767054194228464
+            ]
+        },
+        "geo_point_2d": [
+            35.7670541942,
+            -78.8085576319
+        ]
+    },
+    {
+        "aFeature ID": 20,
+        "CreationDate": "2018-03-26T22:02:27-04:00",
+        "Creator": "",
+        "EditDate": "2018-06-22T09:37:38-04:00",
+        "Editor": "leith.britt_carync",
+        "Name": "Willow Oak at Totopos Restaurant",
+        "Description": "At one time (approximately 1992 to 2011) the Capital Trees Program recorded and listed the champion trees in Wake County. Due to discontinued funding, the Capital Trees Program is defunct. This magnificent tree was on that list.",
+        "Location Name": "1388 Kildaire Farm Rd, Cary, North Carolina, 27511",
+        "geo_shape": {
+            "type": "Point",
+            "coordinates": [
+                -78.7840598713132,
+                35.759093596721286
+            ]
+        },
+        "geo_point_2d": [
+            35.7590935967,
+            -78.7840598713
+        ]
+    }
+]
