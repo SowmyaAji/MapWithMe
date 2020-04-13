@@ -9,7 +9,7 @@ data = pd.DataFrame({
     'lon': [-34, 49, -38, 59.93, 5.33, 45.52, -1.29, -12.97],
     'name': ['Buenos Aires', 'Paris', 'melbourne', 'St Petersbourg', 'Abidjan', 'Montreal', 'Nairobi', 'Salvador']
 })
-data
+
 
 # Make an empty map
 m = folium.Map(location=[20, 0], tiles="Mapbox Bright", zoom_start=2)

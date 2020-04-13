@@ -1,0 +1,2788 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.023415,43.001525 ]
+    },
+    "properties": {
+    "Country":"Abkhazia",
+    "Capital":"Sukhumi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 69.240073,34.575503 ]
+    },
+    "properties": {
+    "Country":"Afghanistan",
+    "Capital":"Kabul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.933333,60.1 ]
+    },
+    "properties": {
+    "Country":"Aland Islands",
+    "Capital":"Mariehamn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.818698,41.327546 ]
+    },
+    "properties": {
+    "Country":"Albania",
+    "Capital":"Tirana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.042048,36.752887 ]
+    },
+    "properties": {
+    "Country":"Algeria",
+    "Capital":"Algiers"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -170.702036,-14.275632 ]
+    },
+    "properties": {
+    "Country":"American Samoa",
+    "Capital":"Pago Pago"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.521835,42.506317 ]
+    },
+    "properties": {
+    "Country":"Andorra",
+    "Capital":"Andorra la Vella"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.289437,-8.839988 ]
+    },
+    "properties": {
+    "Country":"Angola",
+    "Capital":"Luanda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.057441,18.214813 ]
+    },
+    "properties": {
+    "Country":"Anguilla",
+    "Capital":"The Valley"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,-90 ]
+    },
+    "properties": {
+    "Country":"Antarctica",
+    "Capital":"South Pole"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.846772,17.12741 ]
+    },
+    "properties": {
+    "Country":"Antigua and Barbuda",
+    "Capital":"St. John's"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.381559,-34.603684 ]
+    },
+    "properties": {
+    "Country":"Argentina",
+    "Capital":"Buenos Aires"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.499103,40.179186 ]
+    },
+    "properties": {
+    "Country":"Armenia",
+    "Capital":"Yerevan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.008631,12.509204 ]
+    },
+    "properties": {
+    "Country":"Aruba",
+    "Capital":"Oranjestad"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.128684,-35.282 ]
+    },
+    "properties": {
+    "Country":"Australia",
+    "Capital":"Canberra"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.373819,48.208174 ]
+    },
+    "properties": {
+    "Country":"Austria",
+    "Capital":"Vienna"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 49.867092,40.409262 ]
+    },
+    "properties": {
+    "Country":"Azerbaijan",
+    "Capital":"Baku"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.355413,25.047984 ]
+    },
+    "properties": {
+    "Country":"The Bahamas",
+    "Capital":"Nassau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.58605,26.228516 ]
+    },
+    "properties": {
+    "Country":"Bahrain",
+    "Capital":"Manama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.412518,23.810332 ]
+    },
+    "properties": {
+    "Country":"Bangladesh",
+    "Capital":"Dhaka"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.598809,13.113222 ]
+    },
+    "properties": {
+    "Country":"Barbados",
+    "Capital":"Bridgetown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.561524,53.90454 ]
+    },
+    "properties": {
+    "Country":"Belarus",
+    "Capital":"Minsk"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.35171,50.85034 ]
+    },
+    "properties": {
+    "Country":"Belgium",
+    "Capital":"Brussels"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.75902,17.251011 ]
+    },
+    "properties": {
+    "Country":"Belize",
+    "Capital":"Belmopan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.628852,6.496857 ]
+    },
+    "properties": {
+    "Country":"Benin",
+    "Capital":"Porto-Novo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.781375,32.294816 ]
+    },
+    "properties": {
+    "Country":"Bermuda",
+    "Capital":"Hamilton"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 89.639286,27.472792 ]
+    },
+    "properties": {
+    "Country":"Bhutan",
+    "Capital":"Thimphu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.119294,-16.489689 ]
+    },
+    "properties": {
+    "Country":"Bolivia",
+    "Capital":"La Paz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.413076,43.856259 ]
+    },
+    "properties": {
+    "Country":"Bosnia and Herzegovina",
+    "Capital":"Sarajevo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.923147,-24.628208 ]
+    },
+    "properties": {
+    "Country":"Botswana",
+    "Capital":"Gaborone"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.38,54.43 ]
+    },
+    "properties": {
+    "Country":"Bouvet Island",
+    "Capital":"Bouvet Island"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -47.882166,-15.794229 ]
+    },
+    "properties": {
+    "Country":"Brazil",
+    "Capital":"Brasília"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.4778,21.3419 ]
+    },
+    "properties": {
+    "Country":"British Indian Ocean Territory",
+    "Capital":"Camp Justice"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.618466,18.428612 ]
+    },
+    "properties": {
+    "Country":"British Virgin Islands",
+    "Capital":"Road Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.939821,4.903052 ]
+    },
+    "properties": {
+    "Country":"Brunei",
+    "Capital":"Bandar Seri Begawan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.321868,42.697708 ]
+    },
+    "properties": {
+    "Country":"Bulgaria",
+    "Capital":"Sofia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.51966,12.371428 ]
+    },
+    "properties": {
+    "Country":"Burkina Faso",
+    "Capital":"Ouagadougou"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.359878,-3.361378 ]
+    },
+    "properties": {
+    "Country":"Burundi",
+    "Capital":"Bujumbura"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.892167,11.544873 ]
+    },
+    "properties": {
+    "Country":"Cambodia",
+    "Capital":"Phnom Penh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.502075,3.848033 ]
+    },
+    "properties": {
+    "Country":"Cameroon",
+    "Capital":"Yaoundé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.697193,45.42153 ]
+    },
+    "properties": {
+    "Country":"Canada",
+    "Capital":"Ottawa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -23.513327,14.93305 ]
+    },
+    "properties": {
+    "Country":"Cape Verde",
+    "Capital":"Praia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.367439,19.286932 ]
+    },
+    "properties": {
+    "Country":"Cayman Islands",
+    "Capital":"George Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.55819,4.394674 ]
+    },
+    "properties": {
+    "Country":"Central African Republic",
+    "Capital":"Bangui"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.055742,12.134846 ]
+    },
+    "properties": {
+    "Country":"Chad",
+    "Capital":"N'Djamena"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.669265,-33.44889 ]
+    },
+    "properties": {
+    "Country":"Chile",
+    "Capital":"Santiago"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.407395,39.904211 ]
+    },
+    "properties": {
+    "Country":"China",
+    "Capital":"Beijing"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.679379,-10.420686 ]
+    },
+    "properties": {
+    "Country":"Christmas Island",
+    "Capital":"Flying Fish Cove"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.829316,-12.188834 ]
+    },
+    "properties": {
+    "Country":"Cocos (Keeling) Islands",
+    "Capital":"West Island"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.072092,4.710989 ]
+    },
+    "properties": {
+    "Country":"Colombia",
+    "Capital":"Bogotá"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.247315,-11.717216 ]
+    },
+    "properties": {
+    "Country":"Comoros",
+    "Capital":"Moroni"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.266293,-4.441931 ]
+    },
+    "properties": {
+    "Country":"Democratic Republic of the Congo",
+    "Capital":"Kinshasa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.242885,-4.26336 ]
+    },
+    "properties": {
+    "Country":"Congo",
+    "Capital":"Brazzaville"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -159.782306,-21.212901 ]
+    },
+    "properties": {
+    "Country":"Cook Islands",
+    "Capital":"Avarua"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.090725,9.928069 ]
+    },
+    "properties": {
+    "Country":"Costa Rica",
+    "Capital":"San José"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.289343,6.827623 ]
+    },
+    "properties": {
+    "Country":"Cote d'Ivoire",
+    "Capital":"Yamoussoukro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.981919,45.815011 ]
+    },
+    "properties": {
+    "Country":"Croatia",
+    "Capital":"Zagreb "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.345189,23.05407 ]
+    },
+    "properties": {
+    "Country":"Cuba",
+    "Capital":"Havana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.882423,12.122422 ]
+    },
+    "properties": {
+    "Country":"Curaçao",
+    "Capital":"Willemstad"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.382276,35.185566 ]
+    },
+    "properties": {
+    "Country":"Cyprus",
+    "Capital":"Nicosia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4378,50.075538 ]
+    },
+    "properties": {
+    "Country":"Czech Republic",
+    "Capital":"Prague"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.568337,55.676097 ]
+    },
+    "properties": {
+    "Country":"Denmark",
+    "Capital":"Copenhagen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.145647,11.572077 ]
+    },
+    "properties": {
+    "Country":"Djibouti",
+    "Capital":"Djibouti"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.379355,15.309168 ]
+    },
+    "properties": {
+    "Country":"Dominica",
+    "Capital":"Roseau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.931212,18.486058 ]
+    },
+    "properties": {
+    "Country":"Dominican Republic",
+    "Capital":"Santo Domingo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.467838,-0.180653 ]
+    },
+    "properties": {
+    "Country":"Ecuador",
+    "Capital":"Quito"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.235712,30.04442 ]
+    },
+    "properties": {
+    "Country":"Egypt",
+    "Capital":"Cairo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.218191,13.69294 ]
+    },
+    "properties": {
+    "Country":"El Salvador",
+    "Capital":"San Salvador"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737104,3.750412 ]
+    },
+    "properties": {
+    "Country":"Equatorial Guinea",
+    "Capital":"Malabo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.925052,15.322877 ]
+    },
+    "properties": {
+    "Country":"Eritrea",
+    "Capital":"Asmara"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.753575,59.436961 ]
+    },
+    "properties": {
+    "Country":"Estonia",
+    "Capital":"Tallinn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.757761,8.980603 ]
+    },
+    "properties": {
+    "Country":"Ethiopia",
+    "Capital":"Addis Ababa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.851663,-51.697713 ]
+    },
+    "properties": {
+    "Country":"Falkland Islands (Islas Malvinas)",
+    "Capital":"Stanley"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.790982,62.007864 ]
+    },
+    "properties": {
+    "Country":"Faroe Islands",
+    "Capital":"Tórshavn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 178.450079,-18.124809 ]
+    },
+    "properties": {
+    "Country":"Fiji",
+    "Capital":"Suva"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.941025,60.173324 ]
+    },
+    "properties": {
+    "Country":"Finland",
+    "Capital":"Helsinki"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856614 ]
+    },
+    "properties": {
+    "Country":"France",
+    "Capital":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.313453,4.92242 ]
+    },
+    "properties": {
+    "Country":"French Guiana",
+    "Capital":"Cayenne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.558476,-17.551625 ]
+    },
+    "properties": {
+    "Country":"French Polynesia",
+    "Capital":"Papeete"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.4778,-21.3419 ]
+    },
+    "properties": {
+    "Country":"French Southern Territories",
+    "Capital":"Saint-Pierre "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.467268,0.416198 ]
+    },
+    "properties": {
+    "Country":"Gabon",
+    "Capital":"Libreville"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.579032,13.454876 ]
+    },
+    "properties": {
+    "Country":"The Gambia",
+    "Capital":"Banjul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.827096,41.715138 ]
+    },
+    "properties": {
+    "Country":"Georgia",
+    "Capital":"Tbilisi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.404954,52.520007 ]
+    },
+    "properties": {
+    "Country":"Germany",
+    "Capital":"Berlin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.186964,5.603717 ]
+    },
+    "properties": {
+    "Country":"Ghana",
+    "Capital":"Accra"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.353599,36.140773 ]
+    },
+    "properties": {
+    "Country":"Gibraltar",
+    "Capital":"Gibraltar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.72936,37.983917 ]
+    },
+    "properties": {
+    "Country":"Greece",
+    "Capital":"Athens"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.694138,64.18141 ]
+    },
+    "properties": {
+    "Country":"Greenland",
+    "Capital":"Nuuk"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.7488,12.056098 ]
+    },
+    "properties": {
+    "Country":"Grenada",
+    "Capital":"St. George's"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.706411,16.014453 ]
+    },
+    "properties": {
+    "Country":"Guadeloupe",
+    "Capital":"Basse-Terre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.751278,13.470891 ]
+    },
+    "properties": {
+    "Country":"Guam",
+    "Capital":"Hagåtña"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.506882,14.634915 ]
+    },
+    "properties": {
+    "Country":"Guatemala",
+    "Capital":"Guatemala City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.536871,49.455443 ]
+    },
+    "properties": {
+    "Country":"Guernsey",
+    "Capital":"St. Peter Port"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13.578401,9.641185 ]
+    },
+    "properties": {
+    "Country":"Guinea",
+    "Capital":"Conakry"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.617794,11.881655 ]
+    },
+    "properties": {
+    "Country":"Guinea-Bissau",
+    "Capital":"Bissau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.155125,6.801279 ]
+    },
+    "properties": {
+    "Country":"Guyana",
+    "Capital":"Georgetown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.307433,18.594395 ]
+    },
+    "properties": {
+    "Country":"Haiti",
+    "Capital":"Port-au-Prince"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.192136,14.072275 ]
+    },
+    "properties": {
+    "Country":"Honduras",
+    "Capital":"Tegucigalpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.109497,22.396428 ]
+    },
+    "properties": {
+    "Country":"Hong Kong",
+    "Capital":"Hong Kong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.040235,47.497912 ]
+    },
+    "properties": {
+    "Country":"Hungary",
+    "Capital":"Budapest"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -21.817439,64.126521 ]
+    },
+    "properties": {
+    "Country":"Iceland",
+    "Capital":"Reykjavík"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.209021,28.613939 ]
+    },
+    "properties": {
+    "Country":"India",
+    "Capital":"New Delhi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.845599,-6.208763 ]
+    },
+    "properties": {
+    "Country":"Indonesia",
+    "Capital":"Jakarta"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.388974,35.689198 ]
+    },
+    "properties": {
+    "Country":"Iran",
+    "Capital":"Tehran"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.361488,33.312806 ]
+    },
+    "properties": {
+    "Country":"Iraq",
+    "Capital":"Baghdad"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.26031,53.349805 ]
+    },
+    "properties": {
+    "Country":"Ireland",
+    "Capital":"Dublin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.486123,54.152337 ]
+    },
+    "properties": {
+    "Country":"Isle of Man",
+    "Capital":"Douglas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.781768,32.0853 ]
+    },
+    "properties": {
+    "Country":"Israel",
+    "Capital":"Tel Aviv"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.496366,41.902784 ]
+    },
+    "properties": {
+    "Country":"Italy",
+    "Capital":"Rome"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.802893,18.042327 ]
+    },
+    "properties": {
+    "Country":"Jamaica",
+    "Capital":"Kingston"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.731992,35.709026 ]
+    },
+    "properties": {
+    "Country":"Japan",
+    "Capital":"Tokyo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.106568,49.186823 ]
+    },
+    "properties": {
+    "Country":"Jersey",
+    "Capital":"St. Helier"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.945695,31.956578 ]
+    },
+    "properties": {
+    "Country":"Jordan",
+    "Capital":"Amman"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.470356,51.160523 ]
+    },
+    "properties": {
+    "Country":"Kazakhstan",
+    "Capital":"Astana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.821946,-1.292066 ]
+    },
+    "properties": {
+    "Country":"Kenya",
+    "Capital":"Nairobi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 172.971662,1.451817 ]
+    },
+    "properties": {
+    "Country":"Kiribati",
+    "Capital":"Tarawa Atoll"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.165503,42.662914 ]
+    },
+    "properties": {
+    "Country":"Kosovo",
+    "Capital":"Pristina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.977405,29.375859 ]
+    },
+    "properties": {
+    "Country":"Kuwait",
+    "Capital":"Kuwait City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.569762,42.874621 ]
+    },
+    "properties": {
+    "Country":"Kyrgyzstan",
+    "Capital":"Bishkek"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.633104,17.975706 ]
+    },
+    "properties": {
+    "Country":"Laos",
+    "Capital":"Vientiane"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.105186,56.949649 ]
+    },
+    "properties": {
+    "Country":"Latvia",
+    "Capital":"Riga"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.495479,33.888629 ]
+    },
+    "properties": {
+    "Country":"Lebanon",
+    "Capital":"Beirut"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.51436,-29.363219 ]
+    },
+    "properties": {
+    "Country":"Lesotho",
+    "Capital":"Maseru"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -10.760524,6.290743 ]
+    },
+    "properties": {
+    "Country":"Liberia",
+    "Capital":"Monrovia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.191338,32.887209 ]
+    },
+    "properties": {
+    "Country":"Libya",
+    "Capital":"Tripoli"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.520928,47.14103 ]
+    },
+    "properties": {
+    "Country":"Liechtenstein",
+    "Capital":"Vaduz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.279651,54.687156 ]
+    },
+    "properties": {
+    "Country":"Lithuania",
+    "Capital":"Vilnius"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.131935,49.611621 ]
+    },
+    "properties": {
+    "Country":"Luxembourg",
+    "Capital":"Luxembourg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.55,22.166667 ]
+    },
+    "properties": {
+    "Country":"Macau",
+    "Capital":"Macau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.427996,41.997346 ]
+    },
+    "properties": {
+    "Country":"Macedonia",
+    "Capital":"Skopje"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.507905,-18.87919 ]
+    },
+    "properties": {
+    "Country":"Madagascar",
+    "Capital":"Antananarivo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.774119,-13.962612 ]
+    },
+    "properties": {
+    "Country":"Malawi",
+    "Capital":"Lilongwe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.686855,3.139003 ]
+    },
+    "properties": {
+    "Country":"Malaysia",
+    "Capital":"Kuala Lumpur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.509347,4.175496 ]
+    },
+    "properties": {
+    "Country":"Maldives",
+    "Capital":"Malé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.002889,12.639232 ]
+    },
+    "properties": {
+    "Country":"Mali",
+    "Capital":"Bamako"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.514553,35.898909 ]
+    },
+    "properties": {
+    "Country":"Malta",
+    "Capital":"Valletta"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 171.185774,7.116421 ]
+    },
+    "properties": {
+    "Country":"Marshall Islands",
+    "Capital":"Majuro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.05878,14.616065 ]
+    },
+    "properties": {
+    "Country":"Martinique",
+    "Capital":"Fort-de-France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.958237,18.07353 ]
+    },
+    "properties": {
+    "Country":"Mauritania",
+    "Capital":"Nouakchott"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 57.502332,-20.166896 ]
+    },
+    "properties": {
+    "Country":"Mauritius",
+    "Capital":"Port Louis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.227872,-12.780949 ]
+    },
+    "properties": {
+    "Country":"Mayotte",
+    "Capital":"Mamoudzou"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.133208,19.432608 ]
+    },
+    "properties": {
+    "Country":"Mexico",
+    "Capital":"Mexico City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 158.161027,6.914712 ]
+    },
+    "properties": {
+    "Country":"Federated States of Micronesia",
+    "Capital":"Palikir"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.86381,47.010453 ]
+    },
+    "properties": {
+    "Country":"Moldova",
+    "Capital":"Chisinau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.420816,43.737411 ]
+    },
+    "properties": {
+    "Country":"Monaco",
+    "Capital":"Monaco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.905744,47.886399 ]
+    },
+    "properties": {
+    "Country":"Mongolia",
+    "Capital":"Ulaanbaatar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.259364,42.43042 ]
+    },
+    "properties": {
+    "Country":"Montenegro",
+    "Capital":"Podgorica"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.215738,16.706523 ]
+    },
+    "properties": {
+    "Country":"Montserrat",
+    "Capital":"Plymouth"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.849813,33.97159 ]
+    },
+    "properties": {
+    "Country":"Morocco",
+    "Capital":"Rabat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.605135,-25.891968 ]
+    },
+    "properties": {
+    "Country":"Mozambique",
+    "Capital":"Maputo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.07851,19.763306 ]
+    },
+    "properties": {
+    "Country":"Myanmar",
+    "Capital":"Naypyidaw"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.763595,39.826385 ]
+    },
+    "properties": {
+    "Country":"Nagorno-Karabakh Republic",
+    "Capital":"Stepanakert"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.065755,-22.560881 ]
+    },
+    "properties": {
+    "Country":"Namibia",
+    "Capital":"Windhoek"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 166.921091,-0.546686 ]
+    },
+    "properties": {
+    "Country":"Nauru",
+    "Capital":"Yaren"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.323961,27.717245 ]
+    },
+    "properties": {
+    "Country":"Nepal",
+    "Capital":"Kathmandu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.895168,52.370216 ]
+    },
+    "properties": {
+    "Country":"Netherlands",
+    "Capital":"Amsterdam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.9316546,12.1091242 ]
+    },
+    "properties": {
+    "Country":"Netherlands Antilles",
+    "Capital":"Willemstad "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 166.450524,-22.255823 ]
+    },
+    "properties": {
+    "Country":"New Caledonia",
+    "Capital":"Nouméa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.776236,-41.28646 ]
+    },
+    "properties": {
+    "Country":"New Zealand",
+    "Capital":"Wellington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.236174,12.114993 ]
+    },
+    "properties": {
+    "Country":"Nicaragua",
+    "Capital":"Managua"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.125385,13.511596 ]
+    },
+    "properties": {
+    "Country":"Niger",
+    "Capital":"Niamey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.398574,9.076479 ]
+    },
+    "properties": {
+    "Country":"Nigeria",
+    "Capital":"Abuja"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -169.917871,-19.055371 ]
+    },
+    "properties": {
+    "Country":"Niue",
+    "Capital":"Alofi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 167.959588,-29.056394 ]
+    },
+    "properties": {
+    "Country":"Norfolk Island",
+    "Capital":"Kingston"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.762524,39.039219 ]
+    },
+    "properties": {
+    "Country":"North Korea",
+    "Capital":"Pyongyang"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.382276,35.185566 ]
+    },
+    "properties": {
+    "Country":"Northern Cyprus",
+    "Capital":"Nicosia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.750967,15.177801 ]
+    },
+    "properties": {
+    "Country":"Northern Mariana Islands",
+    "Capital":"Saipan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.752245,59.913869 ]
+    },
+    "properties": {
+    "Country":"Norway",
+    "Capital":"Oslo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 58.405923,23.58589 ]
+    },
+    "properties": {
+    "Country":"Oman",
+    "Capital":"Muscat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.093146,33.729388 ]
+    },
+    "properties": {
+    "Country":"Pakistan",
+    "Capital":"Islamabad"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134.624289,7.500384 ]
+    },
+    "properties": {
+    "Country":"Palau",
+    "Capital":"Ngerulmud"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5354719,31.9073509 ]
+    },
+    "properties": {
+    "Country":"Palestine",
+    "Capital":"Ramallah"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.402864,9.101179 ]
+    },
+    "properties": {
+    "Country":"Panama",
+    "Capital":"Panama City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.180267,-9.4438 ]
+    },
+    "properties": {
+    "Country":"Papua New Guinea",
+    "Capital":"Port Moresby"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.575926,-25.26374 ]
+    },
+    "properties": {
+    "Country":"Paraguay",
+    "Capital":"Asuncion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.042793,-12.046374 ]
+    },
+    "properties": {
+    "Country":"Peru",
+    "Capital":"Lima"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.98422,14.599512 ]
+    },
+    "properties": {
+    "Country":"Philippines",
+    "Capital":"Manila"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -130.100464,-25.06629 ]
+    },
+    "properties": {
+    "Country":"Pitcairn Islands",
+    "Capital":"Adamstown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.012229,52.229676 ]
+    },
+    "properties": {
+    "Country":"Poland",
+    "Capital":"Warsaw"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.139337,38.722252 ]
+    },
+    "properties": {
+    "Country":"Portugal",
+    "Capital":"Lisbon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.105722,18.466334 ]
+    },
+    "properties": {
+    "Country":"Puerto Rico",
+    "Capital":"San Juan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.53104,25.285447 ]
+    },
+    "properties": {
+    "Country":"Qatar",
+    "Capital":"Doha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.450675,-20.882057 ]
+    },
+    "properties": {
+    "Country":"Réunion",
+    "Capital":"Saint-Denis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.102538,44.426767 ]
+    },
+    "properties": {
+    "Country":"Romania",
+    "Capital":"Bucharest"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6173,55.755826 ]
+    },
+    "properties": {
+    "Country":"Russian Federation",
+    "Capital":"Moscow"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.112735,-1.957875 ]
+    },
+    "properties": {
+    "Country":"Rwanda",
+    "Capital":"Kigali"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.180636,46.775846 ]
+    },
+    "properties": {
+    "Country":"Saint Pierre and Miquelon",
+    "Capital":"St. Pierre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.224816,13.160025 ]
+    },
+    "properties": {
+    "Country":"Saint Vincent and the Grenadines",
+    "Capital":"Kingstown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -171.751355,-13.850696 ]
+    },
+    "properties": {
+    "Country":"Samoa",
+    "Capital":"Apia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.447281,43.935591 ]
+    },
+    "properties": {
+    "Country":"San Marino",
+    "Capital":"San Marino"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.733343,0.330192 ]
+    },
+    "properties": {
+    "Country":"Sao Tome and Principe",
+    "Capital":"São Tomé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.902838,24.749403 ]
+    },
+    "properties": {
+    "Country":"Saudi Arabia",
+    "Capital":"Riyadh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -17.366029,14.764504 ]
+    },
+    "properties": {
+    "Country":"Senegal",
+    "Capital":"Dakar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.448922,44.786568 ]
+    },
+    "properties": {
+    "Country":"Serbia",
+    "Capital":"Belgrade"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.451315,-4.619143 ]
+    },
+    "properties": {
+    "Country":"Seychelles",
+    "Capital":"Victoria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13.231722,8.465677 ]
+    },
+    "properties": {
+    "Country":"Sierra Leone",
+    "Capital":"Freetown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.850949,1.280095 ]
+    },
+    "properties": {
+    "Country":"Singapore",
+    "Capital":"Singapore"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.107137,48.145892 ]
+    },
+    "properties": {
+    "Country":"Slovakia",
+    "Capital":"Bratislava"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.505751,46.056947 ]
+    },
+    "properties": {
+    "Country":"Slovenia",
+    "Capital":"Ljubljana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 159.9729,-9.445638 ]
+    },
+    "properties": {
+    "Country":"Solomon Islands",
+    "Capital":"Honiara"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.318162,2.046934 ]
+    },
+    "properties": {
+    "Country":"Somalia",
+    "Capital":"Mogadishu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.229271,-25.747868 ]
+    },
+    "properties": {
+    "Country":"South Africa",
+    "Capital":"Pretoria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -36.493735,-54.28325 ]
+    },
+    "properties": {
+    "Country":"South Georgia and the South Sandwich Islands",
+    "Capital":"King Edward Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.977969,37.566535 ]
+    },
+    "properties": {
+    "Country":"South Korea",
+    "Capital":"Seoul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.964405,42.22146 ]
+    },
+    "properties": {
+    "Country":"South Ossetia",
+    "Capital":"Tskhinvali"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.57125,4.859363 ]
+    },
+    "properties": {
+    "Country":"South Sudan",
+    "Capital":"Juba"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.70379,40.416775 ]
+    },
+    "properties": {
+    "Country":"Spain",
+    "Capital":"Madrid"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.902478,6.89407 ]
+    },
+    "properties": {
+    "Country":"Sri Lanka",
+    "Capital":"Sri Jayawardenepura Kotte"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.852201,17.896435 ]
+    },
+    "properties": {
+    "Country":"St. Barthélemy",
+    "Capital":"Gustavia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.717692,17.302606 ]
+    },
+    "properties": {
+    "Country":"St. Kitts and Nevis",
+    "Capital":"Basseterre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.987469,14.010109 ]
+    },
+    "properties": {
+    "Country":"Saint Lucia",
+    "Capital":"Castries"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.082466,18.067519 ]
+    },
+    "properties": {
+    "Country":"St. Martin",
+    "Capital":"Marigot"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.559899,15.500654 ]
+    },
+    "properties": {
+    "Country":"Sudan",
+    "Capital":"Khartoum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.203828,5.852036 ]
+    },
+    "properties": {
+    "Country":"Suriname",
+    "Capital":"Paramaribo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.055,78.062 ]
+    },
+    "properties": {
+    "Country":"Svalbard and Jan Mayen",
+    "Capital":"Longyearbyen "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.136672,-26.305448 ]
+    },
+    "properties": {
+    "Country":"Swaziland",
+    "Capital":"Mbabane"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.068581,59.329323 ]
+    },
+    "properties": {
+    "Country":"Sweden",
+    "Capital":"Stockholm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.447447,46.947974 ]
+    },
+    "properties": {
+    "Country":"Switzerland",
+    "Capital":"Bern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.276528,33.513807 ]
+    },
+    "properties": {
+    "Country":"Syria",
+    "Capital":"Damascus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.565418,25.032969 ]
+    },
+    "properties": {
+    "Country":"Taiwan (Province of China)",
+    "Capital":"Taipei"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.565418,25.032969 ]
+    },
+    "properties": {
+    "Country":"Taiwan",
+    "Capital":"Taipei"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 68.787038,38.559772 ]
+    },
+    "properties": {
+    "Country":"Tajikistan",
+    "Capital":"Dushanbe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.751607,-6.162959 ]
+    },
+    "properties": {
+    "Country":"Tanzania",
+    "Capital":"Dodoma"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.501765,13.756331 ]
+    },
+    "properties": {
+    "Country":"Thailand",
+    "Capital":"Bangkok"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.560314,-8.556856 ]
+    },
+    "properties": {
+    "Country":"Timor-Leste",
+    "Capital":"Dili"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.231362,6.172497 ]
+    },
+    "properties": {
+    "Country":"Togo",
+    "Capital":"Lomé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -171.848,-9.2005 ]
+    },
+    "properties": {
+    "Country":"Tokelau",
+    "Capital":"Nukunonu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -175.204947,-21.139342 ]
+    },
+    "properties": {
+    "Country":"Tonga",
+    "Capital":"Nukuʻalofa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.596805,46.848185 ]
+    },
+    "properties": {
+    "Country":"Transnistria",
+    "Capital":"Tiraspol"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.501926,10.654901 ]
+    },
+    "properties": {
+    "Country":"Trinidad and Tobago",
+    "Capital":"Port of Spain"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -12.311315,-37.068042 ]
+    },
+    "properties": {
+    "Country":"Tristan da Cunha",
+    "Capital":"Edinburgh of the Seven Seas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.181532,36.806495 ]
+    },
+    "properties": {
+    "Country":"Tunisia",
+    "Capital":"Tunis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.859742,39.933364 ]
+    },
+    "properties": {
+    "Country":"Turkey",
+    "Capital":"Ankara"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 58.326063,37.960077 ]
+    },
+    "properties": {
+    "Country":"Turkmenistan",
+    "Capital":"Ashgabat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.13891,21.467458 ]
+    },
+    "properties": {
+    "Country":"Turks and Caicos Islands",
+    "Capital":"Cockburn Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 179.198128,-8.520066 ]
+    },
+    "properties": {
+    "Country":"Tuvalu",
+    "Capital":"Funafuti"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.930701,18.3419 ]
+    },
+    "properties": {
+    "Country":"Virgin Islands, U.S.",
+    "Capital":" Charlotte Amalie"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.58252,0.347596 ]
+    },
+    "properties": {
+    "Country":"Uganda",
+    "Capital":"Kampala"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.5234,50.4501 ]
+    },
+    "properties": {
+    "Country":"Ukraine",
+    "Capital":"Kiev"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 54.697277,24.299174 ]
+    },
+    "properties": {
+    "Country":"United Arab Emirates",
+    "Capital":"Abu Dhabi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.127758,51.507351 ]
+    },
+    "properties": {
+    "Country":"United Kingdom",
+    "Capital":"London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.036871,38.907192 ]
+    },
+    "properties": {
+    "Country":"United States",
+    "Capital":"Washington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.164531,-34.901113 ]
+    },
+    "properties": {
+    "Country":"Uruguay",
+    "Capital":"Montevideo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 69.240073,41.299496 ]
+    },
+    "properties": {
+    "Country":"Uzbekistan",
+    "Capital":"Tashkent"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 168.327325,-17.733251 ]
+    },
+    "properties": {
+    "Country":"Vanuatu",
+    "Capital":"Port Vila"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.453601,41.902179 ]
+    },
+    "properties": {
+    "Country":"Vatican City",
+    "Capital":"Vatican City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.903606,10.480594 ]
+    },
+    "properties": {
+    "Country":"Venezuela",
+    "Capital":"Caracas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.83416,21.027764 ]
+    },
+    "properties": {
+    "Country":"Vietnam",
+    "Capital":"Hanoi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -176.176447,-13.282509 ]
+    },
+    "properties": {
+    "Country":"Wallis and Futuna",
+    "Capital":"Mata-Utu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13.1625,27.125287 ]
+    },
+    "properties": {
+    "Country":"Western Sahara",
+    "Capital":"El Aaiún"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.191007,15.369445 ]
+    },
+    "properties": {
+    "Country":"Yemen",
+    "Capital":"Sana'a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.322817,-15.387526 ]
+    },
+    "properties": {
+    "Country":"Zambia",
+    "Capital":"Lusaka"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.03351,-17.825166 ]
+    },
+    "properties": {
+    "Country":"Zimbabwe",
+    "Capital":"Harare"
+    }
+  }
+]
+}

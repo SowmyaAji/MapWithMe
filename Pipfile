@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 folium = "*"
 pandas = "*"
+python = "*"
+3-7 = "*"
 
 [dev-packages]
 
